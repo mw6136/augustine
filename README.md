@@ -26,3 +26,6 @@ Some concerns about the data sets:
 * What happens when `FDEX` > `GDP`?
 * Does it make sense to do linear extrapolation on log of nominal prices?
 * Is it true that everything looks linear on a log/log scale?
+
+### Related?
+![Mac_McDonalds](https://github.com/user-attachments/assets/0223c68a-55e7-44ad-95e9-60b2ecd812e8)
